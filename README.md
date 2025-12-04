@@ -1,4 +1,4 @@
-# data_clean_funcs
+# data_clean_utils
 
 A collection of reusable data cleaning and preprocessing utilities.
 
