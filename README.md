@@ -1,2 +1,9 @@
-# data_clean_utils
-repository to keep my functions to clean data
+# data_clean_funcs
+
+A collection of reusable data cleaning and preprocessing utilities.
+
+## Installation
+
+### Local editable install
+```bash
+pip install -e .
